@@ -1,0 +1,10 @@
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+*.map.json
+__pycache__/
+.ipynb_checkpoints/
+.streamlit/
+.venv/
+venv/
