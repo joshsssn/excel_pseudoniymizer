@@ -8,3 +8,5 @@ __pycache__/
 .streamlit/
 .venv/
 venv/
+map_pseudo.json
+full_scale_test_openpyxl.py
